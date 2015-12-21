@@ -1,0 +1,7 @@
+/*Color and border to make visiable section elements while working on layout.*/
+body {
+    background-color: LightGray;
+}
+div {
+    border: 1px solid Chocolate;
+}
